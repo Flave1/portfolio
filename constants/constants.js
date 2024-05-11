@@ -28,7 +28,7 @@ export const NetSKILLS = [
     level: "95%",
   },
   {
-    title: "React NNative, Kotlin, Swift",
+    title: "React Native, Kotlin, Swift",
     level: "90%",
   },
   {
