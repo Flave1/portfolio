@@ -1,6 +1,7 @@
 import { AiFillCopyrightCircle } from 'react-icons/ai'
 import { MdMail } from 'react-icons/md'
 import { AiOutlineWhatsApp } from 'react-icons/ai'
+import { CONTACTS, NAME } from '../constants/constants'
 
 const Footer = () => {
     return (
@@ -13,13 +14,13 @@ const Footer = () => {
                     <span>2023 All Rights Reserved.</span>
                 </div>
                 <div className="flex items-center">
-                    <a href='https://www.fiverr.com/codeworthy' target="_blank" rel="noreferrer">Made with ❤️ by <span className='font-bold'>Favour</span></a>
+                    <a href='https://www.fiverr.com/codeworthy' target="_blank" rel="noreferrer">Made with ❤️ by <span className='font-bold'>{NAME}</span></a>
                 </div>
                 <div className="hidden md:flex items-center">
                     <div className="mr-1 text-base">
                         <MdMail />
                     </div>
-                    <div>favourremnuel433@gmail.com</div>
+                    <div>{CONTACTS.EMAIL}</div>
                 </div>
             </div>
         </div>
