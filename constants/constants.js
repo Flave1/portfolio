@@ -5,8 +5,8 @@ export const DESIGNATION2 = "AI / Machine Learning Engineer";
 export const DESIGNATION3 = "Open Source Contributor";
 
 export const DETAILS = {
-  Residence: "Nigeria",
-  City: "Lagos",
+  Residence: "United Kingdom",
+  City: "London",
   Age: "27",
 };
 
