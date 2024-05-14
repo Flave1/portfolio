@@ -20,6 +20,10 @@ export const NetSKILLS = [
     level: "98%",
   },
   {
+    title: "Python",
+    level: "89%",
+  },
+  {
     title: "React, Typescript",
     level: "100%",
   },
@@ -30,6 +34,14 @@ export const NetSKILLS = [
   {
     title: "React Native, Kotlin, Swift",
     level: "90%",
+  },
+  {
+    title: "GPT, NLP, Langchain",
+    level: "90%",
+  },
+  {
+    title: "Tensorflow, Pytorch",
+    level: "100%",
   },
   {
     title: "AWS, Azure, Heroku",

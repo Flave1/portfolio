@@ -93,14 +93,13 @@ const portfolio = [
     projectName: "VENDTECHSL",
     url: "http://vendtechsl.com",
     image: "projects/vendtechsl.jpeg",
-    projectDetail: `<h1>Developed a Bill Payment System, offering seamless management of bills across various services</h1>
-      Some of the cool features include</br>
+    projectDetail: `<h1>Built a cutting-edge AI-driven Utility Bill Payment System</h1></br>
+      It Seamlessly manage an array of bills, from utilities like</br>
       1. Electricity </br>
       2. Water bills </br>
       3. Subscriptions</br>
       4. Gas</br>
-      4. Rent, users can conveniently track, schedule, and pay bills with ease. <p>This intuitive solution ensures timely payments, enhances financial organization, 
-      and simplifies the bill management process for users</p>`,
+      4. Rent, Harnessing the power of AI, This solution not only tracks and schedules payments but also learns from your habits to optimize your financial organization.`,
     technologiesUsed: [
       {
         tech: "ASPNET MVC",
@@ -118,7 +117,19 @@ const portfolio = [
         tech: "Html | Css",
       },
       {
-        tech: "Window Server",
+        tech: "Python",
+      },
+      {
+        tech: "Tensorflow",
+      },
+      {
+        tech: "Pytorch",
+      },
+      {
+        tech: "Langchain",
+      },
+      {
+        tech: "NLP",
       },
     ],
   },
