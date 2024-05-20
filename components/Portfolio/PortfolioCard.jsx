@@ -1,10 +1,11 @@
 import Badge from "../Common/Badge";
 import { BsArrowUpRightSquare } from "react-icons/bs";
 
-const PortfolioCard = ({ data }) => {
+const PortfolioCard = ({ data, openModal }) => {
   return (
     <div className="card_stylings overflow-hidden h-full">
       <img
+        onClick={() => openModal(data?.image)}
         src={data?.image}
         alt="portfolio img"
         className="w-full object-cover opacity-30 h-32 sm:h-48 md:h-64"

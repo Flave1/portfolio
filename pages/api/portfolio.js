@@ -43,7 +43,7 @@ const portfolio = [
       },
       {
         tech: "Google Map",
-      }, 
+      },
     ],
   },
   {
@@ -70,7 +70,7 @@ const portfolio = [
       },
       {
         tech: "Postgresql",
-      }, 
+      },
       {
         tech: "React | React-Redux",
       },
@@ -271,6 +271,77 @@ const portfolio = [
       },
       {
         tech: "Mongo DB",
+      },
+    ],
+  },
+
+  {
+    id: 0,
+    projectName: "CAFAY FOOD DELIVERY MOBILE APP",
+    url: "http://cafay.flaveconsole.com",
+    image: "projects/cafayapp.png",
+    projectDetail: `CAFAY Food Delivery application is the mobile version of the delivery app mentioned above`,
+    technologiesUsed: [
+      {
+        tech: "React-Native",
+      },
+      {
+        tech: "Firebase",
+      },
+      {
+        tech: "Web-socket",
+      },
+      {
+        tech: "Redux",
+      },
+      {
+        tech: "Google Geolocation",
+      }
+    ],
+  },
+
+  {
+    id: 0,
+    projectName: "VENDTECHSL Mobile Application",
+    url: "http://vendtechsl.com",
+    image: "projects/vendtechslmobile.png",
+    projectDetail: `VENDTECHSL Application is the mobile version of the VENDTECHSL solution mentioned above`,
+    technologiesUsed: [
+      {
+        tech: "Kotlin",
+      },
+      {
+        tech: "Android",
+      },
+      {
+        tech: "XML",
+      },
+      {
+        tech: "Firebase",
+      },
+    ],
+  },
+  {
+    id: 0,
+    projectName: "SMP MOBILE APPLICATION",
+    url: "https://smpdemo.flaveconsole.com",
+    image: "projects/smpmobile.png",
+    projectDetail: `SMP EDUCATIONAL SERVICES Application is the mobile version of the smp educational solution mentioned above`,
+    technologiesUsed: [
+      {
+        tech: "React-Native",
+      },
+      {
+        tech: "Android",
+      },
+      {
+        tech: "Swift",
+      },
+      {
+        tech: "XML",
+      },
+      {
+        tech: "Firebase",
       },
     ],
   },
