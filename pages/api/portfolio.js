@@ -9,7 +9,7 @@ const portfolio = [
           1. Remote Device Lock</br>
           2. Schedule No Device Use Time</br>
           3. App & Browser Blocking</br></br>
-          <p>This Solution protects your child’s eyes too! by this functionalities</p>
+          <p>This Solution protects a child’s eyes too! by this functionalities</p>
           1. Safe Face-to-Screen Distance Detection</br>
           2. Eye Break Reminder</br>
           3. Poor Posture Detection</br>
