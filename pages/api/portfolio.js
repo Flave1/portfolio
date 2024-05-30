@@ -355,7 +355,7 @@ const portfolio = [
     id: 0,
     projectName: "HEALTH-CARE CUSTOMER CARE BOT",
     url: "https://github.com/Flave1/health-care-customer-care-bot",
-    image: "projects/backend.jpeg",
+    image: "projects/hospital_chatbot.jpeg",
     projectDetail: `I built a Health care custoemr care chatbot 
     <br />Some of the nice features include </br>
     It an AI-Driven interactive customer care service for hospitals buitl using Opend AI Models and langchain framework and Rag architecture`,
