@@ -194,7 +194,8 @@ const portfolio = [
     technologiesUsed: [
       {
         tech: "ASP.NET Core Web API",
-      },{
+      },
+      {
         tech: "Angular",
       },
       {
@@ -301,7 +302,7 @@ const portfolio = [
       },
       {
         tech: "Google Geolocation",
-      }
+      },
     ],
   },
 
@@ -348,6 +349,34 @@ const portfolio = [
       {
         tech: "Firebase",
       },
+    ],
+  },
+  {
+    id: 0,
+    projectName: "HEALTH-CARE CUSTOMER CARE BOT",
+    url: "https://github.com/Flave1/health-care-customer-care-bot",
+    image: "projects/backend.jpeg",
+    projectDetail: `I built a Health care custoemr care chatbot 
+    <br />Some of the nice features include </br>
+    It an AI-Driven interactive customer care service for hospitals buitl using Opend AI Models and langchain framework and Rag architecture`,
+    technologiesUsed: [
+      {
+        tech: "Python",
+      },
+      {
+        tech: "Langchain",
+      },
+      {
+        tech: "ChromaDb",
+      },
+      {
+        tech: "Neo4j Aura graph Database",
+      },
+      {
+        tech: "Rag architecture",
+      },{
+        tech: "Streamlit UI"
+      }
     ],
   },
 ];
