@@ -194,6 +194,8 @@ const portfolio = [
     technologiesUsed: [
       {
         tech: "ASP.NET Core Web API",
+      },{
+        tech: "Angular",
       },
       {
         tech: "MSSQL",
