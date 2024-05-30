@@ -356,9 +356,9 @@ const portfolio = [
     projectName: "HEALTH-CARE CUSTOMER CARE BOT",
     url: "https://github.com/Flave1/health-care-customer-care-bot",
     image: "projects/hospital_chatbot.jpeg",
-    projectDetail: `I built a Health care custoemr care chatbot 
-    <br />Some of the nice features include </br>
-    It an AI-Driven interactive customer care service for hospitals buitl using Opend AI Models and langchain framework and Rag architecture`,
+    projectDetail: `I developed a state-of-the-art healthcare customer care assistant chatbot. </br>
+    This AI-driven, interactive service is designed specifically for hospitals, leveraging advanced OpenAI models, the LangChain framework, and RAG (Retrieval-Augmented Generation) architecture. 
+    </br>It provides efficient and responsive customer support, enhancing patient experience and streamlining hospital operations.`,
     technologiesUsed: [
       {
         tech: "Python",
