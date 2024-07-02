@@ -49,7 +49,7 @@ const portfolio = [
   {
     id: 0,
     projectName: "CAFAY FOOD DELIVERY",
-    url: "http://cafay.flaveconsole.com",
+    url: "https://github.com/Flave1/sv_logistics_api",
     image: "projects/cafay.jpeg",
     projectDetail: `<h1>An all-encompassing restaurant food order and delivery solution</h1>
       With this platform, customers enjoy seamless browsing of menus, easy ordering, and real-time tracking of their deliveries, ensuring satisfaction with every meal.<p>
@@ -93,13 +93,21 @@ const portfolio = [
     projectName: "VENDTECHSL",
     url: "http://vendtechsl.com",
     image: "projects/vendtechsl.jpeg",
-    projectDetail: `<h1>Built a cutting-edge AI-driven Utility Bill Payment System</h1></br>
-      It Seamlessly manage an array of bills, from utilities like</br>
-      1. Electricity </br>
-      2. Water bills </br>
-      3. Subscriptions</br>
-      4. Gas</br>
-      4. Rent, Harnessing the power of AI, This solution not only tracks and schedules payments but also learns from your habits to optimize your financial organization.`,
+    projectDetail: `  <h1>AI-powered Utility Bill Management Platform</h1>
+    <p>Developed a novel AI-powered Utility Bill Management platform that streamlines financial organization.</p>
+    <h2>Features:</h2>
+    <ul>
+        <li><strong>Automates bill pay and tracking:</strong> Ensures timely payments for electricity, water, gas, subscriptions, internet services, and even rents.</li>
+        <li><strong>AI-driven optimization:</strong> Learns from user behavior to predict future bills and schedule payments, maximizing financial control.</li>
+        <li><strong>Seamless bill management:</strong> Handles a variety of bills in one central location, simplifying organization.</li>
+    </ul>
+    <h2>Things to Know About the Solution:</h2>
+    <h3>Technical Details:</h3>
+    <p>The solution was built with solid coding principles using C#, JavaScript, and Python, with machine learning algorithms for bill prediction.</p>
+    <h3>Impact:</h3>
+    <p>Increased efficiency and time-saving, reduced late fees, and improved credit score, with personalized financial insights.</p>
+    <h3>Target Audience:</h3>
+    <p>Busy professionals, households juggling multiple bills and responsibilities, and anyone who values financial organization.</p>`,
     technologiesUsed: [
       {
         tech: "ASPNET MVC",
@@ -284,7 +292,7 @@ const portfolio = [
   {
     id: 0,
     projectName: "CAFAY FOOD DELIVERY MOBILE APP",
-    url: "http://cafay.flaveconsole.com",
+    url: "https://github.com/Flave1/sv_logistics_mobile",
     image: "projects/cafayapp.png",
     projectDetail: `CAFAY Food Delivery application is the mobile version of the delivery app mentioned above`,
     technologiesUsed: [
@@ -353,12 +361,23 @@ const portfolio = [
   },
   {
     id: 0,
-    projectName: "HEALTH-CARE CUSTOMER CARE BOT",
+    projectName: "HEALTH-CARE CUSTOMER CARE ASSISTANT BOT",
     url: "https://github.com/Flave1/health-care-customer-care-bot",
     image: "projects/hospital_chatbot.jpeg",
-    projectDetail: `I developed a state-of-the-art healthcare customer care assistant chatbot. </br>
-    This AI-driven, interactive service is designed specifically for hospitals, leveraging advanced OpenAI models, the LangChain framework, and RAG (Retrieval-Augmented Generation) architecture. 
-    </br>It provides efficient and responsive customer support, enhancing patient experience and streamlining hospital operations.`,
+    projectDetail: `
+    <p>Designed and implemented a sophisticated customer care review chatbot using advanced AI technologies to enhance customer support services.</p>
+    <h2>Technologies Used:</h2>
+    <p>Python, OpenAI GPT models, Langchain, RAG (Retrieval-Augmented Generation) architecture with memory for context, recall, Streamlit UI, neo4j Aura vector DB.</p>
+    <h2>Key Responsibilities:</h2>
+    <ol>
+        <li>Developed and deployed a chatbot that effectively leverages past customer reviews to provide accurate and relevant information to users.</li>
+        <li>Implemented Langchain to manage complex conversation flows and ensure seamless interactions.</li>
+        <li>Utilized RAG architecture to combine retrieval and generation capabilities, enabling the chatbot to access vast amounts of information and generate human-like responses.</li>
+        <li>Integrated memory mechanisms to maintain context and recall past interactions, ensuring continuity and coherence in multi-turn conversations.</li>
+        <li>Conducted rigorous testing and optimization to improve the chatbot's accuracy, response time, and user satisfaction.</li>
+    </ol>
+    <h2>Impact:</h2>
+    <p>Significantly improved customer engagement and satisfaction by providing timely, accurate, and context-aware responses, leading to enhanced customer service experiences.</p>`,
     technologiesUsed: [
       {
         tech: "Python",
@@ -374,9 +393,10 @@ const portfolio = [
       },
       {
         tech: "Rag architecture",
-      },{
+      },
+      {
         tech: "Streamlit UI"
-      }
+      },
     ],
   },
 ];

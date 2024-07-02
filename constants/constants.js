@@ -7,7 +7,7 @@ export const DESIGNATION3 = "Open Source Contributor";
 export const DETAILS = {
   Residence: "United Kingdom",
   City: "London",
-  Age: "27",
+  Age: "28",
 };
 
 export const NetSKILLS = [
