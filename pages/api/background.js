@@ -8,7 +8,7 @@ const background = [
           "BSc Honours, Information Technology and Business Information Systems",
         detail:
           "Information Technology and Business Information Systems BSc Honours",
-        year: "2023",
+        year: "2025",
         location: "London, United Kingdom",
       },
       {

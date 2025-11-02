@@ -31,7 +31,7 @@ const Banner = () => {
                       <span className="inline-block">
                         <Typewriter
                           options={{
-                            strings: ["I am a Full Stack Developer", ""],
+                            strings: ["I am a Full Stack and Machine Learning Software Enigineer", ""],
                             autoStart: true,
                             loop: true,
                           }}
@@ -44,27 +44,7 @@ const Banner = () => {
                     </span>
                     {""}{" "}
                   </span>
-                  <br />
-                  <span>
-                    {""}
-                    <span className="text-Green sm:text-base xl:text-lg font-bold"></span>
-                    {""}{" "}
-                    <span className="text-Snow sm:text-xl xl:text-2xl font-bold">
-                      {" "}
-                      <span className="inline-block">
-                        <Typewriter
-                          options={{
-                            strings: ["", "And a Data Scientist"],
-                            autoStart: true,
-                            loop: true,
-                          }}
-                        />
-                      </span>
-                    </span>{" "}
-                    {""}
-                    <span className="text-Green sm:text-base xl:text-lg font-bold"></span>
-                    {""}{" "}
-                  </span>
+                 
                 </div>
               </div>
               <Link
@@ -75,7 +55,7 @@ const Banner = () => {
                 offset={-50}
                 className="button"
               >
-                6+ Years Working Experience
+                7 Years Working Experience
               </Link>
             </div>
             <div className="w-48 h-52 relative hidden md:block">

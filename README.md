@@ -8,7 +8,6 @@
   <br />
   <br />
   
-  <img src="./public/readme-images/moj.png" />
 
   <h2 align="center">Emmanuel Favour - Personal portfolio</h2>
 

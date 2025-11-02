@@ -12,30 +12,19 @@ export const DETAILS = {
 
 export const NetSKILLS = [
   {
-    title: "C# ASP.NET, ASP.NET Core",
-    level: "98%",
+    title: "C# .Net Core",
+    level: "100%",
   }, {
-    title: "Angular",
-    level: "95%",
-  },
-  {
-    title: "Nodejs, Nestjs",
-    level: "98%",
-  },  {
-    title: "React, Typescript, Vue.js",
+    title: "Python",
     level: "100%",
   },
   {
-    title: "Python",
-    level: "89%",
-  },
-
- 
-  {
-    title: "React Native, Kotlin, Swift",
-    level: "90%",
-  },
- 
+    title: "Nodejs, Nestjs",
+    level: "100%",
+  },  {
+    title: "React, Typescript, Vue.js",
+    level: "100%",
+  },  
   {
     title: "AWS, Azure, Heroku",
     level: "89%",
@@ -43,14 +32,7 @@ export const NetSKILLS = [
   {
     title: "MSSQL, MySql, Postgresql MongoDB, GraphQL",
     level: "97%",
-  }, {
-    title: "GPT, NLP, Langchain",
-    level: "90%",
-  },
-  {
-    title: "Tensorflow, Pytorch",
-    level: "100%",
-  },
+  }, 
 ];
 
 export const NJSSKILLS = [
